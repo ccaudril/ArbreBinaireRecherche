@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1575543632 source:c:\users\amine\downloads\main.c
+	"TP4.h"
+	<stdio.h>
+	<stdlib.h>
+
+1575324932 c:\users\amine\downloads\tp4.h
+
+1575571283 source:c:\users\amine\downloads\tp4.c
+	<stdio.h>
+	<stdlib.h>
+
+1575587473 source:c:\users\camil\downloads\main.c
+	"TP4.h"
+	<stdio.h>
+	<stdlib.h>
+
+1575587130 c:\users\camil\downloads\tp4.h
+
+1575586877 source:c:\users\camil\downloads\tp4.c
+	<stdio.h>
+	<stdlib.h>
+
+1575823615 source:c:\users\camil\downloads\tp4.version_finale\main.c
+	"TP4.h"
+	<stdio.h>
+	<stdlib.h>
+
+1575844496 c:\users\camil\downloads\tp4.version_finale\tp4.h
+
+1575844142 source:c:\users\camil\downloads\tp4.version_finale\tp4.c
+	<stdio.h>
+	<stdlib.h>
+
